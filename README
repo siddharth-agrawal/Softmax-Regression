@@ -7,7 +7,7 @@ Running the code:
 -> Download the gunzip data files and the code file 'softmaxRegression.py'
 -> Put them in the same folder, extract the gunzips and run the program by typing in 'python softmaxRegression.py' in the command line
 -> You should get an output saying 'Accuracy : 0.9262', it signifies an accuracy of 92.6%
--> The code takes about 5 minutes to execute on an i3 processor, so be patient
+-> The code takes about 5 minutes to execute on an i3 processor
 
 Code written by: Siddharth Agrawal
 Email ID: siddharth.950@gmail.com
