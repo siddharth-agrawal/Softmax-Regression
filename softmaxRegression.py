@@ -210,7 +210,7 @@ def executeSoftmaxRegression():
     
     """ Initialize Softmax Regressor with the above parameters """
     
-    regressor = SoftmaxRegression(784, 10, 0.0001)
+    regressor = SoftmaxRegression(input_size, num_classes, lamda)
     
     """ Run the L-BFGS algorithm to get the optimal parameter values """
     
